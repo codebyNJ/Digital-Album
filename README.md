@@ -111,9 +111,14 @@ This digital album focuses on storing your memorable images in a scrollable webs
 ![Static Badge](https://img.shields.io/badge/FullStackDev-purple)     ![Static Badge](https://img.shields.io/badge/UI%2FUX-purple)
 ![Static Badge](https://img.shields.io/badge/URL%20Study-purple)
 
-#### Both the themes Link:
-1. Buttefly Skies Theme:
-   ![Static Badge](https://img.shields.io/badge/DNS%20Study-purple)
+### Both the themes Link:
+
+1. Butterfly Skies Theme:
+   
+   ![Static Badge](https://img.shields.io/badge/website-It's%20working%20fine-green)
+   
 2. Pastel Ink Theme:
-   ![Static Badge](https://img.shields.io/badge/DNS%20Study-purple)
+   
+   ![Static Badge](https://img.shields.io/badge/website-It's%20working%20fine-green)
+
 
