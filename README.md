@@ -3,9 +3,9 @@ This digital album focuses on storing your memorable images in a scrollable webs
 
 ## Features:
 
-1. The whole website is hosted in your drive.
+1. The whole website is hosted in GitHub.
 2. Highly secured until the link is shared between the people you wish is inaccessible.
-3. The images are accessed from Google Drive not hosted into any public forum/platform.
+3. The images are accessed from your Google Drive account not hosted into any public forum/platform.
 4. A beautiful song of your choice can be added and will play in the background if you see your images on the website.
 5. There is a greeting card at the end of each album.
 6. Accessible anytime and anywhere.
@@ -114,11 +114,11 @@ This digital album focuses on storing your memorable images in a scrollable webs
 ### Both the themes Link:
 
 1. Butterfly Skies Theme:
-   
-   ![Static Badge](https://img.shields.io/badge/website-It's%20working%20fine-green)
+     
+   [Butterfly Skies Theme](https://nijeesh-bit.github.io/butterflyskiestheme/butterfly_skies_theme.html)  ![Static Badge](https://img.shields.io/badge/website-It's%20working%20fine-green)
    
 2. Pastel Ink Theme:
    
-   ![Static Badge](https://img.shields.io/badge/website-It's%20working%20fine-green)
+   [Pastel Ink Theme](https://nijeesh-bit.github.io/pastelinktheme/pastel_ink_theme.html) ![Static Badge](https://img.shields.io/badge/website-It's%20working%20fine-green)
 
 
